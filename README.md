@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on c#, .net, angular 2+, javascript, css, html
+- 🔭 I’m currently working on c#, .net, angular 7+, javascript, css, html
 - 🌱 I’m currently learning react-js, vim, bash
 <!-- - 👯 I’m looking to collaborate on -->
 <!-- - 🤔 I’m looking for help with  -->
